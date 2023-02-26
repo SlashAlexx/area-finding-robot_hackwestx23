@@ -1,0 +1,127 @@
+@import url("https://fonts.googleapis.com/css?family=Inter:700");
+
+.screen a{
+  display: contents;
+  text-decoration: none;
+}
+
+.container-center-horizontal {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  pointer-events: none;
+  width: 100%;
+}
+
+.container-center-horizontal > * {
+  flex-shrink: 0;
+  pointer-events:auto;
+}
+
+.desktop-1 {
+  align-items: flex-start;
+  background-color: var(--white);
+  border: 0.62px none;
+  display: flex;
+  height: 967px;
+  width: 893.76;
+}
+
+.overlap-group {
+  align-items: center;
+  background-color: #f2f4f7;
+  border-radius: 12.412px;
+  display: flex;
+  flex-direction: column;
+  min-height: 966px;
+  padding: 22.3px 0;
+  width: 894;
+}
+
+.frame-1988{
+  align-items: center;
+  background-color: var(--shark);
+  border-radius: 4.97px;
+  display: flex;
+  gap:499px;
+  margin-right: 0;
+  margin-top: 11px;
+  overflow: hidden;
+  padding: 0 20.8px;
+  width: 827px;
+}
+
+.frame-1990 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 24.21 px;
+  box-shadow: 9px 2.48px 6.21px #00000012;
+  display: flex;
+  gap: 12px;
+  height: 45px;
+  margin-left: 12px;
+  margin-top:  0.62px;
+  overflow: hidden;
+  padding: 0 14px;
+  width: 125px;
+}
+
+.run {
+  align-self: flex-end;
+  color: var(--black);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  margin-bottom: -2.73px;
+  margin-left: 10px;
+  min-height: 35px;
+  min-width: 45px;
+  text-align: center;
+  text-shadow: 0px 2.48px 6.21px #00000012;
+}
+
+.codiconrun-all{
+  height: 29px;
+  margin-top: 3.58px;
+  width: 29px;
+}
+
+.about-wire-frame {
+  height: 63px;
+  width: 150px;
+}
+
+.mapping-wire-frames {
+  align-items: flex-start;
+  background-color: var(--white);
+  border-radius: 4.97px;
+  box-shadow: 0px 2.48px 6.21px #00000012;
+  display: flex;
+  height: 585px;
+  margin-right: 0;
+  margin-top: 16px;
+  overflow: hidden;
+  padding: 8.7px 8.7px;
+  width: 827px;
+}
+
+.mapping {
+  color: var(--shark);
+  font-family: var(--font-family-inter);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  letter-spacing: 0;
+  line-height: 17.4px;
+  min-height: 18px;
+  min-width: 57px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.data-footer {
+  height: 230px;
+  margin-top: 17px;
+  width: 839px;
+}
