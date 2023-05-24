@@ -20,3 +20,17 @@ Once this data has been generated, it is uploaded to a webapp, displaying the gr
 
 #### ngrok and flask integration with ESP8266
 - Transferring ultrasonic sensor data from ESP8266 into local ngrok server.
+
+## Images
+
+<img src="https://github.com/SlashAlexx/area-finding-robot_hackwestx23/assets/119014375/3d652f11-5fb5-4431-bf11-4e66459cea06" width="500">
+<img src="https://github.com/SlashAlexx/area-finding-robot_hackwestx23/assets/119014375/b3e5c768-8682-4547-8180-bc51a5ce6b50" width="500">
+
+
+## Contributors
+
+- Bryson Deweese: Arduino and microcontroller programming, hardware and design logicistics, and debugging.
+- Samir Hossain: Ardino and ESP8266 programming and debugging, design logistics, and network testing and implementation.
+- Austin Ladd: Hardware logistics, microcontroller debugging, and user testing.
+- Nick Rethans: Movement and corner detection calculations, HTML webapp design, design logistics, and network testing.
+- Alex Roberts: Movement and corner detection calculations, python programming, and network testing and implementation.
